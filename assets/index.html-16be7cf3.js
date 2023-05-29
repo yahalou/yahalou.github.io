@@ -1,0 +1,1 @@
+const e=JSON.parse(`{"key":"v-8daa1a0e","path":"/","title":"","lang":"zh-CN","frontmatter":{"home":true,"heroImage":"https://vuejs.org/images/logo.png","heroText":"Chenlong's blog","tagline":"好好学习，天天向上"},"headers":[],"git":{},"filePathRelative":"README.md"}`);export{e as data};
